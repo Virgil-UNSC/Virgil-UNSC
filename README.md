@@ -81,3 +81,10 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Ubuntu" src="https://camo.githubusercontent.com/6b53392693b13aa98b6ae4d610675398a81e751c3f210bafa2960f360cd8e056/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4633373632362e7376673f6c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Ubuntu-F37626.svg?logo=ubuntu&amp;logoColor=white" style="max-width: 100%;" height="24"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;" height="24"></a>
 </p>
+<hr>
+<p dir="auto" align="center">
+    <a href="https://twitter.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/twitter.svg" alt="PriMendiratta" style="max-width: 100%;" width="30" height="30" align="middle"></a>
+    <a href="https://www.linkedin.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="Prince-Mendiratta" style="max-width: 100%;" width="30" height="30" align="middle"></a>
+    <a href="https://instagram.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/instagram.svg" alt="prince.mendiratta" style="max-width: 100%;" width="30" height="30" align="middle"></a>
+    <a href="https://telegram.dog/" rel="nofollow"><img src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="anubisxx" style="max-width: 100%;" width="30" height="30" align="middle"></a>
+</p>
