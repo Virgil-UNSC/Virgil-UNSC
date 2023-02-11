@@ -1,5 +1,5 @@
 <h2 dir="auto" align="center">Hola yo soy Virgil-UNSC! 👋</h2>
-un Desarrollador apasionado y un Geek.
+<h2 dir="auto" align="center">Un desarrollador apasionado y un Geek.</h2>
 
 - 🔭 Actualmente trabajo en Pentesting tools ...
 - 🌱 actualmente estoy aprendiendo typescript ...
