@@ -8,7 +8,7 @@
 - ⚡ Fundador de GEEKTV: MovieStreaming Service ...
 -->
 <img src="https://camo.githubusercontent.com/46b125bce0a908f86976dfe8ae3edd76183c69422df7b169d17a957e7ad6da88/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5072696e63652d4d656e64697261747461" alt="VIRGIL" data-canonical-src="https://komarev.com/ghpvc/?username=Virgil-UNSC" style="max-width: 100%;">
-<h3 dir="auto" align="center"><script src="https://tryhackme.com/badge/1044494"></script></h3>
+<center><img src="https://tryhackme-badges.s3.amazonaws.com/Authlook.png" alt="TryHackMe"></center>
 
 
 
